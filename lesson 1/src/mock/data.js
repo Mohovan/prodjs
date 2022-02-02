@@ -1,5 +1,7 @@
 import { random } from 'lodash'
 
+import './mock/index.css'
+
 const PRODUCTS = [
   'Shirt', 
   'Shoes', 
